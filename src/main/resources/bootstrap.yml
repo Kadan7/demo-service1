@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo-service-1
+#  zipkip:
+#    base-url: kadan1:7777
+#  cloud:
+#    config:
+#      uri: http://localhost:8080
